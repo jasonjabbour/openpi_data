@@ -1,0 +1,23 @@
+task,episode,step,object_name,speed,acceleration
+pick up the black bowl next to the ramekin and place it on the plate,27,83,akita_black_bowl_1,1.3660255603237474,211.13464938409084
+pick up the black bowl from table center and place it on the plate,38,80,akita_black_bowl_1,1.0602280281248364,228.75897250630953
+pick up the black bowl from table center and place it on the plate,44,159,plate_1,1.0113139257943808,505.65696289718
+pick up the black bowl on the cookie box and place it on the plate,13,67,akita_black_bowl_1,1.3240878877818865,213.16379226662764
+pick up the black bowl on the cookie box and place it on the plate,27,74,akita_black_bowl_1,1.1983469947464844,220.97402798181815
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,89,akita_black_bowl_1,1.1308709645585042,220.32830576193408
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,90,akita_black_bowl_1,1.5204379348107901,196.67301372508342
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,91,akita_black_bowl_1,1.853722829669839,168.05979160775487
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,98,akita_black_bowl_1,1.0238287449482135,227.82922757885487
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,99,akita_black_bowl_1,1.4273021673266604,204.3198873608284
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,100,akita_black_bowl_1,1.7776259205120666,177.15387227245117
+pick up the black bowl on the ramekin and place it on the plate,4,59,akita_black_bowl_1,1.0029932302171938,235.8400250942821
+pick up the black bowl on the ramekin and place it on the plate,37,68,akita_black_bowl_1,1.3564701021919465,219.2206999567433
+pick up the black bowl on the ramekin and place it on the plate,38,75,glazed_rim_porcelain_ramekin_1,1.0087245837004173,238.96375229659117
+pick up the black bowl on the ramekin and place it on the plate,38,76,glazed_rim_porcelain_ramekin_1,1.4629404873882632,229.6466431001748
+pick up the black bowl next to the cookie box and place it on the plate,23,101,akita_black_bowl_1,1.1032552677362475,227.0589299271452
+pick up the black bowl next to the cookie box and place it on the plate,23,102,akita_black_bowl_1,1.5112113725581588,207.0532097552589
+pick up the black bowl on the stove and place it on the plate,23,74,akita_black_bowl_1,1.1406667111567022,222.11039768129592
+pick up the black bowl on the stove and place it on the plate,23,75,akita_black_bowl_1,1.5357209142864012,198.01728177750638
+pick up the black bowl on the stove and place it on the plate,39,87,akita_black_bowl_1,1.2890861981409822,212.65009086233934
+pick up the black bowl on the stove and place it on the plate,39,88,akita_black_bowl_1,1.65898792637126,185.8540150341741
+pick up the black bowl on the wooden cabinet and place it on the plate,11,76,akita_black_bowl_1,1.0168246821267664,205.22245721240523

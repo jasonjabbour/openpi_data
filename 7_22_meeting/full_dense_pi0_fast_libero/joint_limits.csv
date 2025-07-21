@@ -1,0 +1,694 @@
+task,episode,step,joint_name,position
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,206,robot0_joint2,1.6083117538071132
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,207,robot0_joint2,1.6411513816941052
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,208,robot0_joint2,1.668297187430944
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,209,robot0_joint2,1.6906454773705397
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,210,robot0_joint2,1.7103970318040005
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,211,robot0_joint2,1.7263013598323569
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,212,robot0_joint2,1.739307997607517
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,213,robot0_joint2,1.7520594402955174
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,214,robot0_joint2,1.7621099967828078
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,215,robot0_joint2,1.7635805937912277
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,216,robot0_joint2,1.76326292332513
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,217,robot0_joint2,1.7631313945414415
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,218,robot0_joint2,1.7630159077585097
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,219,robot0_joint2,1.7612718102126697
+pick up the black bowl between the plate and the ramekin and place it on the plate,32,220,robot0_joint2,1.7422439624422568
+pick up the black bowl next to the ramekin and place it on the plate,26,108,robot0_joint2,1.6249829307127504
+pick up the black bowl next to the ramekin and place it on the plate,26,108,robot0_joint4,-0.21533361664208756
+pick up the black bowl next to the ramekin and place it on the plate,26,109,robot0_joint2,1.6677787365701369
+pick up the black bowl next to the ramekin and place it on the plate,26,109,robot0_joint4,-0.062336126659715906
+pick up the black bowl next to the ramekin and place it on the plate,26,110,robot0_joint2,1.6712844936459876
+pick up the black bowl next to the ramekin and place it on the plate,26,110,robot0_joint4,-0.059689061460393406
+pick up the black bowl next to the ramekin and place it on the plate,26,111,robot0_joint2,1.6573474507758497
+pick up the black bowl next to the ramekin and place it on the plate,26,111,robot0_joint4,-0.09513946032006797
+pick up the black bowl next to the ramekin and place it on the plate,26,112,robot0_joint2,1.6359279822334507
+pick up the black bowl next to the ramekin and place it on the plate,26,112,robot0_joint4,-0.15986132733335023
+pick up the black bowl next to the ramekin and place it on the plate,26,113,robot0_joint2,1.6124265398712687
+pick up the black bowl next to the ramekin and place it on the plate,26,114,robot0_joint2,1.5890515196138353
+pick up the black bowl next to the ramekin and place it on the plate,26,150,robot0_joint2,1.5983637000489581
+pick up the black bowl next to the ramekin and place it on the plate,26,151,robot0_joint2,1.6300308543230289
+pick up the black bowl next to the ramekin and place it on the plate,26,152,robot0_joint2,1.6572709906269594
+pick up the black bowl next to the ramekin and place it on the plate,26,153,robot0_joint2,1.6756395882194068
+pick up the black bowl next to the ramekin and place it on the plate,26,154,robot0_joint2,1.67510027867321
+pick up the black bowl next to the ramekin and place it on the plate,26,155,robot0_joint2,1.6681749193955613
+pick up the black bowl next to the ramekin and place it on the plate,26,156,robot0_joint2,1.6580748819698492
+pick up the black bowl next to the ramekin and place it on the plate,26,157,robot0_joint2,1.6465820008748928
+pick up the black bowl next to the ramekin and place it on the plate,26,158,robot0_joint2,1.6322081567952982
+pick up the black bowl next to the ramekin and place it on the plate,26,159,robot0_joint2,1.6148099896915884
+pick up the black bowl next to the ramekin and place it on the plate,26,160,robot0_joint2,1.5951802088765117
+pick up the black bowl next to the ramekin and place it on the plate,26,166,robot0_joint2,1.5907435520358697
+pick up the black bowl next to the ramekin and place it on the plate,26,167,robot0_joint2,1.5986204188156299
+pick up the black bowl next to the ramekin and place it on the plate,26,168,robot0_joint2,1.6075035800936175
+pick up the black bowl next to the ramekin and place it on the plate,26,169,robot0_joint2,1.6186031855281058
+pick up the black bowl next to the ramekin and place it on the plate,26,170,robot0_joint2,1.6315799432389426
+pick up the black bowl next to the ramekin and place it on the plate,26,171,robot0_joint2,1.6320744970803478
+pick up the black bowl next to the ramekin and place it on the plate,26,172,robot0_joint2,1.6176514878128676
+pick up the black bowl next to the ramekin and place it on the plate,26,173,robot0_joint2,1.5955274431821889
+pick up the black bowl next to the ramekin and place it on the plate,26,185,robot0_joint5,2.6565342861775068
+pick up the black bowl next to the ramekin and place it on the plate,26,186,robot0_joint5,2.64925850894688
+pick up the black bowl next to the ramekin and place it on the plate,26,212,robot0_joint2,1.6146470616993014
+pick up the black bowl next to the ramekin and place it on the plate,26,213,robot0_joint2,1.644018378947866
+pick up the black bowl next to the ramekin and place it on the plate,26,214,robot0_joint2,1.6558654052663335
+pick up the black bowl next to the ramekin and place it on the plate,26,215,robot0_joint2,1.66216534357052
+pick up the black bowl next to the ramekin and place it on the plate,26,216,robot0_joint2,1.6674864071928175
+pick up the black bowl next to the ramekin and place it on the plate,26,217,robot0_joint2,1.6677212319053976
+pick up the black bowl next to the ramekin and place it on the plate,26,218,robot0_joint2,1.6654664679449924
+pick up the black bowl next to the ramekin and place it on the plate,26,218,robot0_joint5,2.6124242738696073
+pick up the black bowl next to the ramekin and place it on the plate,26,219,robot0_joint2,1.660261927634599
+pick up the black bowl next to the ramekin and place it on the plate,26,219,robot0_joint5,2.6642201578643463
+pick up the black bowl next to the ramekin and place it on the plate,26,220,robot0_joint2,1.6525507903470191
+pick up the black bowl next to the ramekin and place it on the plate,26,220,robot0_joint5,2.7181860119995243
+pick up the black bowl next to the ramekin and place it on the plate,33,51,robot0_joint7,2.6288479460004557
+pick up the black bowl next to the ramekin and place it on the plate,33,52,robot0_joint7,2.6620270252227836
+pick up the black bowl next to the ramekin and place it on the plate,33,53,robot0_joint7,2.6885264614016613
+pick up the black bowl next to the ramekin and place it on the plate,33,54,robot0_joint7,2.7075057009276255
+pick up the black bowl next to the ramekin and place it on the plate,33,55,robot0_joint7,2.7187118787580187
+pick up the black bowl next to the ramekin and place it on the plate,33,56,robot0_joint7,2.7221542222338826
+pick up the black bowl next to the ramekin and place it on the plate,33,57,robot0_joint7,2.721114984110284
+pick up the black bowl next to the ramekin and place it on the plate,33,58,robot0_joint7,2.718099762432402
+pick up the black bowl next to the ramekin and place it on the plate,33,59,robot0_joint7,2.7138941026078585
+pick up the black bowl next to the ramekin and place it on the plate,33,60,robot0_joint7,2.7086955407930136
+pick up the black bowl next to the ramekin and place it on the plate,33,61,robot0_joint7,2.7056440322826987
+pick up the black bowl next to the ramekin and place it on the plate,33,62,robot0_joint7,2.7036936688450592
+pick up the black bowl next to the ramekin and place it on the plate,33,63,robot0_joint7,2.7001841893598773
+pick up the black bowl next to the ramekin and place it on the plate,33,64,robot0_joint7,2.6942268543224532
+pick up the black bowl next to the ramekin and place it on the plate,33,65,robot0_joint7,2.685415021689748
+pick up the black bowl next to the ramekin and place it on the plate,33,66,robot0_joint7,2.673039374364168
+pick up the black bowl next to the ramekin and place it on the plate,33,67,robot0_joint7,2.6558521738906835
+pick up the black bowl next to the ramekin and place it on the plate,33,68,robot0_joint7,2.63245522266349
+pick up the black bowl next to the ramekin and place it on the plate,34,53,robot0_joint7,2.627500183159661
+pick up the black bowl next to the ramekin and place it on the plate,34,54,robot0_joint7,2.652057520596846
+pick up the black bowl next to the ramekin and place it on the plate,34,55,robot0_joint7,2.670608087358068
+pick up the black bowl next to the ramekin and place it on the plate,34,56,robot0_joint7,2.6844077275461475
+pick up the black bowl next to the ramekin and place it on the plate,34,57,robot0_joint7,2.6939384912278532
+pick up the black bowl next to the ramekin and place it on the plate,34,58,robot0_joint7,2.6991466330186307
+pick up the black bowl next to the ramekin and place it on the plate,34,59,robot0_joint7,2.7007879460677215
+pick up the black bowl next to the ramekin and place it on the plate,34,60,robot0_joint7,2.6996806865827465
+pick up the black bowl next to the ramekin and place it on the plate,34,61,robot0_joint7,2.6978383976775198
+pick up the black bowl next to the ramekin and place it on the plate,34,62,robot0_joint7,2.6953307409782115
+pick up the black bowl next to the ramekin and place it on the plate,34,63,robot0_joint7,2.691428143554704
+pick up the black bowl next to the ramekin and place it on the plate,34,64,robot0_joint7,2.6861979654681054
+pick up the black bowl next to the ramekin and place it on the plate,34,65,robot0_joint7,2.6796940519191033
+pick up the black bowl next to the ramekin and place it on the plate,34,66,robot0_joint7,2.6728796317387737
+pick up the black bowl next to the ramekin and place it on the plate,34,67,robot0_joint7,2.6653198915482186
+pick up the black bowl next to the ramekin and place it on the plate,34,68,robot0_joint7,2.6558437653231044
+pick up the black bowl next to the ramekin and place it on the plate,34,69,robot0_joint7,2.6430520824826687
+pick up the black bowl next to the ramekin and place it on the plate,34,70,robot0_joint7,2.6253777545765407
+pick up the black bowl next to the ramekin and place it on the plate,38,57,robot0_joint7,2.6186047781487902
+pick up the black bowl next to the ramekin and place it on the plate,38,58,robot0_joint7,2.634675405275209
+pick up the black bowl next to the ramekin and place it on the plate,38,59,robot0_joint7,2.6459671830251326
+pick up the black bowl next to the ramekin and place it on the plate,38,60,robot0_joint7,2.6531583411890027
+pick up the black bowl next to the ramekin and place it on the plate,38,61,robot0_joint7,2.656657272185047
+pick up the black bowl next to the ramekin and place it on the plate,38,62,robot0_joint7,2.656390845257484
+pick up the black bowl next to the ramekin and place it on the plate,38,63,robot0_joint7,2.653249473707273
+pick up the black bowl next to the ramekin and place it on the plate,38,64,robot0_joint7,2.6485528174400574
+pick up the black bowl next to the ramekin and place it on the plate,38,65,robot0_joint7,2.6432752047836456
+pick up the black bowl next to the ramekin and place it on the plate,38,66,robot0_joint7,2.6379119271579445
+pick up the black bowl next to the ramekin and place it on the plate,38,67,robot0_joint7,2.6323591484046527
+pick up the black bowl next to the ramekin and place it on the plate,38,68,robot0_joint7,2.6264545053890864
+pick up the black bowl next to the ramekin and place it on the plate,38,69,robot0_joint7,2.6199366629760084
+pick up the black bowl next to the ramekin and place it on the plate,38,70,robot0_joint7,2.612474922152494
+pick up the black bowl next to the ramekin and place it on the plate,40,52,robot0_joint7,2.624129541650961
+pick up the black bowl next to the ramekin and place it on the plate,40,53,robot0_joint7,2.640266163713949
+pick up the black bowl next to the ramekin and place it on the plate,40,54,robot0_joint7,2.64565342701999
+pick up the black bowl next to the ramekin and place it on the plate,40,55,robot0_joint7,2.6440042637099137
+pick up the black bowl next to the ramekin and place it on the plate,40,56,robot0_joint7,2.6374743316119567
+pick up the black bowl next to the ramekin and place it on the plate,40,57,robot0_joint7,2.6291102001030486
+pick up the black bowl next to the ramekin and place it on the plate,40,58,robot0_joint7,2.6191946723424873
+pick up the black bowl next to the ramekin and place it on the plate,40,59,robot0_joint7,2.6081754084997963
+pick up the black bowl next to the ramekin and place it on the plate,45,56,robot0_joint7,2.6166747734565945
+pick up the black bowl next to the ramekin and place it on the plate,45,57,robot0_joint7,2.6262437174370685
+pick up the black bowl next to the ramekin and place it on the plate,45,58,robot0_joint7,2.6310887603649835
+pick up the black bowl next to the ramekin and place it on the plate,45,59,robot0_joint7,2.6313793125200253
+pick up the black bowl next to the ramekin and place it on the plate,45,60,robot0_joint7,2.6281909781478157
+pick up the black bowl next to the ramekin and place it on the plate,45,61,robot0_joint7,2.623295960753722
+pick up the black bowl next to the ramekin and place it on the plate,45,62,robot0_joint7,2.6164866790228065
+pick up the black bowl next to the ramekin and place it on the plate,50,52,robot0_joint7,2.625842774534947
+pick up the black bowl next to the ramekin and place it on the plate,50,53,robot0_joint7,2.659325724262369
+pick up the black bowl next to the ramekin and place it on the plate,50,54,robot0_joint7,2.688770162250405
+pick up the black bowl next to the ramekin and place it on the plate,50,55,robot0_joint7,2.7138122039321866
+pick up the black bowl next to the ramekin and place it on the plate,50,56,robot0_joint7,2.7337635125289017
+pick up the black bowl next to the ramekin and place it on the plate,50,57,robot0_joint7,2.7485356066834217
+pick up the black bowl next to the ramekin and place it on the plate,50,58,robot0_joint7,2.7583685620799083
+pick up the black bowl next to the ramekin and place it on the plate,50,59,robot0_joint7,2.7631472550407468
+pick up the black bowl next to the ramekin and place it on the plate,50,60,robot0_joint7,2.76344306986427
+pick up the black bowl next to the ramekin and place it on the plate,50,61,robot0_joint7,2.7611539814169586
+pick up the black bowl next to the ramekin and place it on the plate,50,62,robot0_joint7,2.7576097242569584
+pick up the black bowl next to the ramekin and place it on the plate,50,63,robot0_joint7,2.75280972551719
+pick up the black bowl next to the ramekin and place it on the plate,50,64,robot0_joint7,2.7466165190769782
+pick up the black bowl next to the ramekin and place it on the plate,50,65,robot0_joint7,2.739377770512901
+pick up the black bowl next to the ramekin and place it on the plate,50,66,robot0_joint7,2.73386241114718
+pick up the black bowl next to the ramekin and place it on the plate,50,67,robot0_joint7,2.7297271736927367
+pick up the black bowl next to the ramekin and place it on the plate,50,68,robot0_joint7,2.725244796327423
+pick up the black bowl next to the ramekin and place it on the plate,50,69,robot0_joint7,2.7196538013047706
+pick up the black bowl next to the ramekin and place it on the plate,50,70,robot0_joint7,2.7124945623823593
+pick up the black bowl next to the ramekin and place it on the plate,50,71,robot0_joint7,2.7030932190580494
+pick up the black bowl next to the ramekin and place it on the plate,50,72,robot0_joint7,2.6890011579218065
+pick up the black bowl next to the ramekin and place it on the plate,50,73,robot0_joint7,2.6693770577290854
+pick up the black bowl next to the ramekin and place it on the plate,50,74,robot0_joint7,2.6445773030039503
+pick up the black bowl next to the ramekin and place it on the plate,50,75,robot0_joint7,2.6151808133926098
+pick up the black bowl from table center and place it on the plate,44,116,robot0_joint2,1.6359546649689751
+pick up the black bowl from table center and place it on the plate,44,117,robot0_joint2,1.6935002186768684
+pick up the black bowl from table center and place it on the plate,44,118,robot0_joint2,1.7502903652659034
+pick up the black bowl from table center and place it on the plate,44,119,robot0_joint2,1.7681154185383083
+pick up the black bowl from table center and place it on the plate,44,120,robot0_joint2,1.764082709790038
+pick up the black bowl from table center and place it on the plate,44,121,robot0_joint2,1.7633006535819449
+pick up the black bowl from table center and place it on the plate,44,122,robot0_joint2,1.7626587751181253
+pick up the black bowl from table center and place it on the plate,44,123,robot0_joint2,1.7529166489354937
+pick up the black bowl from table center and place it on the plate,44,124,robot0_joint2,1.7338985891781107
+pick up the black bowl from table center and place it on the plate,44,125,robot0_joint2,1.6998898728886942
+pick up the black bowl from table center and place it on the plate,44,126,robot0_joint2,1.653551182949949
+pick up the black bowl from table center and place it on the plate,44,127,robot0_joint2,1.604130639717359
+pick up the black bowl from table center and place it on the plate,44,146,robot0_joint2,1.6006515449679872
+pick up the black bowl from table center and place it on the plate,44,147,robot0_joint2,1.6188888166895576
+pick up the black bowl from table center and place it on the plate,44,148,robot0_joint2,1.6335043217361986
+pick up the black bowl from table center and place it on the plate,44,149,robot0_joint2,1.6424104751269097
+pick up the black bowl from table center and place it on the plate,44,149,robot0_joint5,2.6347464612622353
+pick up the black bowl from table center and place it on the plate,44,150,robot0_joint2,1.6445626969626845
+pick up the black bowl from table center and place it on the plate,44,150,robot0_joint5,2.727213575484927
+pick up the black bowl from table center and place it on the plate,44,151,robot0_joint2,1.6459952319063254
+pick up the black bowl from table center and place it on the plate,44,151,robot0_joint5,2.762272579182319
+pick up the black bowl from table center and place it on the plate,44,152,robot0_joint2,1.6525158525627772
+pick up the black bowl from table center and place it on the plate,44,152,robot0_joint5,2.7250555910403884
+pick up the black bowl from table center and place it on the plate,44,153,robot0_joint2,1.6674131918653239
+pick up the black bowl from table center and place it on the plate,44,153,robot0_joint5,2.6596907099647513
+pick up the black bowl from table center and place it on the plate,44,154,robot0_joint2,1.6841734448708972
+pick up the black bowl from table center and place it on the plate,44,155,robot0_joint2,1.7004052574962096
+pick up the black bowl from table center and place it on the plate,44,156,robot0_joint2,1.716778744397391
+pick up the black bowl from table center and place it on the plate,44,157,robot0_joint2,1.7250347666048027
+pick up the black bowl from table center and place it on the plate,44,158,robot0_joint2,1.7267508960635323
+pick up the black bowl from table center and place it on the plate,44,159,robot0_joint2,1.7247540454839572
+pick up the black bowl from table center and place it on the plate,44,160,robot0_joint2,1.7082570658792775
+pick up the black bowl from table center and place it on the plate,44,161,robot0_joint2,1.692493832779648
+pick up the black bowl from table center and place it on the plate,44,162,robot0_joint2,1.6880035369275985
+pick up the black bowl from table center and place it on the plate,44,163,robot0_joint2,1.6861128602227136
+pick up the black bowl from table center and place it on the plate,44,164,robot0_joint2,1.6814986635880618
+pick up the black bowl from table center and place it on the plate,44,165,robot0_joint2,1.6732884894257567
+pick up the black bowl from table center and place it on the plate,44,166,robot0_joint2,1.6707305343763457
+pick up the black bowl from table center and place it on the plate,44,167,robot0_joint2,1.6542318509494
+pick up the black bowl from table center and place it on the plate,44,168,robot0_joint2,1.638384384186762
+pick up the black bowl from table center and place it on the plate,44,169,robot0_joint2,1.6195275972761882
+pick up the black bowl from table center and place it on the plate,44,170,robot0_joint2,1.5988890732291954
+pick up the black bowl from table center and place it on the plate,44,176,robot0_joint2,1.5935199707147072
+pick up the black bowl from table center and place it on the plate,44,177,robot0_joint2,1.6083282839379518
+pick up the black bowl from table center and place it on the plate,44,178,robot0_joint2,1.5956868766043586
+pick up the black bowl from table center and place it on the plate,44,199,robot0_joint5,2.632673447626227
+pick up the black bowl from table center and place it on the plate,44,200,robot0_joint5,2.745806454536495
+pick up the black bowl from table center and place it on the plate,44,201,robot0_joint5,2.785381306376724
+pick up the black bowl from table center and place it on the plate,44,202,robot0_joint5,2.7132979141812426
+pick up the black bowl from table center and place it on the plate,44,218,robot0_joint2,1.5952176613906317
+pick up the black bowl from table center and place it on the plate,44,219,robot0_joint2,1.6141608042698858
+pick up the black bowl from table center and place it on the plate,44,220,robot0_joint2,1.628581553841043
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,104,robot0_joint4,-0.20955245354599508
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,105,robot0_joint4,-0.17879991418967692
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,106,robot0_joint4,-0.1454745605609461
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,107,robot0_joint4,-0.11029634571669543
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,108,robot0_joint4,-0.07527768506235345
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,109,robot0_joint4,-0.06694696644572133
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,110,robot0_joint4,-0.06923860871812731
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,111,robot0_joint4,-0.08176079051748458
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,112,robot0_joint4,-0.10433792257898228
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,113,robot0_joint4,-0.13419671427427987
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,114,robot0_joint4,-0.17106574595114413
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,18,115,robot0_joint4,-0.2141870939522909
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,115,robot0_joint4,-0.2167720632063389
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,116,robot0_joint4,-0.1896993255074281
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,117,robot0_joint4,-0.15826034433078154
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,118,robot0_joint4,-0.12602546666111886
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,119,robot0_joint4,-0.09382952596359657
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,120,robot0_joint4,-0.06600193304437722
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,121,robot0_joint4,-0.06836160048019041
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,122,robot0_joint4,-0.07034769942195983
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,123,robot0_joint4,-0.07204434952085653
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,124,robot0_joint4,-0.07385707891798524
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,125,robot0_joint4,-0.07507164921968094
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,126,robot0_joint4,-0.0782723226606024
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,127,robot0_joint4,-0.08532044094761106
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,128,robot0_joint4,-0.09274518480992097
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,129,robot0_joint4,-0.09857607612045384
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,130,robot0_joint4,-0.10163160170415124
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,131,robot0_joint4,-0.10069456295317498
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,132,robot0_joint4,-0.0968955526030087
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,133,robot0_joint4,-0.09073909844618945
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,134,robot0_joint4,-0.08189375160787843
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,135,robot0_joint4,-0.07014234083643318
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,136,robot0_joint4,-0.06878359709666697
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,137,robot0_joint4,-0.06954971668305908
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,138,robot0_joint4,-0.06967547799144418
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,139,robot0_joint4,-0.06969349987728837
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,140,robot0_joint4,-0.06969391969550527
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,141,robot0_joint2,1.5937206277455105
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,141,robot0_joint4,-0.06967901043791534
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,142,robot0_joint2,1.6026551930299395
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,142,robot0_joint4,-0.06968389779348698
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,143,robot0_joint2,1.6119278251916203
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,143,robot0_joint4,-0.0696899637191402
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,144,robot0_joint2,1.6214202478589517
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,144,robot0_joint4,-0.0696914874368718
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,145,robot0_joint2,1.6306116411938767
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,145,robot0_joint4,-0.06968431359286036
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,146,robot0_joint2,1.6368950778893474
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,146,robot0_joint4,-0.06966075164867708
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,147,robot0_joint2,1.6406384423036926
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,147,robot0_joint4,-0.06968012123081202
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,148,robot0_joint2,1.6434245961044194
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,148,robot0_joint4,-0.06969923198251304
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,149,robot0_joint2,1.6454451396954115
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,149,robot0_joint4,-0.06970798779212806
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,150,robot0_joint2,1.6464315252012371
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,150,robot0_joint4,-0.06971800436880791
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,151,robot0_joint2,1.6472291024151304
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,151,robot0_joint4,-0.06972694607667147
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,152,robot0_joint2,1.6480953894968962
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,152,robot0_joint4,-0.06972359534424094
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,153,robot0_joint2,1.649032956353038
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,153,robot0_joint4,-0.06972410066014607
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,154,robot0_joint2,1.649759077428614
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,154,robot0_joint4,-0.06972237522171588
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,155,robot0_joint2,1.6501595962844189
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,155,robot0_joint4,-0.06972437389708908
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,156,robot0_joint2,1.6507816090592022
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,156,robot0_joint4,-0.07014829058769727
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,157,robot0_joint2,1.6514725721269947
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,157,robot0_joint4,-0.07142402879636972
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,158,robot0_joint2,1.6517019825905799
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,158,robot0_joint4,-0.07293188568028418
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,159,robot0_joint2,1.651554508536173
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,159,robot0_joint4,-0.07437681198059053
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,160,robot0_joint2,1.6512409687967924
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,160,robot0_joint4,-0.07571751311577517
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,161,robot0_joint2,1.651045226093484
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,161,robot0_joint4,-0.07675017805687509
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,162,robot0_joint2,1.6510091688454036
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,162,robot0_joint4,-0.07693771863837652
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,163,robot0_joint2,1.650900839410302
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,163,robot0_joint4,-0.0766697424501374
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,164,robot0_joint2,1.6507063140266178
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,164,robot0_joint4,-0.0764005911861454
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,165,robot0_joint2,1.6502779840255966
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,165,robot0_joint4,-0.07611003040451474
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,166,robot0_joint2,1.651438150995256
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,166,robot0_joint4,-0.07661698544237305
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,167,robot0_joint2,1.6534434163637923
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,167,robot0_joint4,-0.0756656938082188
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,168,robot0_joint2,1.655000623477506
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,168,robot0_joint4,-0.07275115739770183
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,169,robot0_joint2,1.6562253778897804
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,169,robot0_joint4,-0.06930932237891199
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,170,robot0_joint2,1.655519112868677
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,170,robot0_joint4,-0.06955068569304244
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,171,robot0_joint2,1.6555121819017582
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,171,robot0_joint4,-0.07086159001857738
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,172,robot0_joint2,1.6562517449736764
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,172,robot0_joint4,-0.07162744740016848
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,173,robot0_joint2,1.6568264019090087
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,173,robot0_joint4,-0.07121068847066335
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,174,robot0_joint2,1.657261148161904
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,174,robot0_joint4,-0.07015955583506998
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,175,robot0_joint2,1.6573646137615443
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,175,robot0_joint4,-0.0696341940799258
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,176,robot0_joint2,1.656704470358995
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,176,robot0_joint4,-0.06973747096140671
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,177,robot0_joint2,1.655784005818412
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,177,robot0_joint4,-0.06977006974214812
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,178,robot0_joint2,1.6548755197711171
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,178,robot0_joint4,-0.06977884011255368
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,179,robot0_joint2,1.654040213346674
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,179,robot0_joint4,-0.0697810090487222
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,180,robot0_joint2,1.6532397684137454
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,180,robot0_joint4,-0.06978158334121495
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,181,robot0_joint2,1.6523460954757931
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,181,robot0_joint4,-0.06976930221632194
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,182,robot0_joint2,1.6514624259365442
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,182,robot0_joint4,-0.06976916727281826
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,183,robot0_joint2,1.6506240110691826
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,183,robot0_joint4,-0.06976943834898633
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,184,robot0_joint2,1.6498171527361167
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,184,robot0_joint4,-0.06976948074877257
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,185,robot0_joint2,1.649035497501327
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,185,robot0_joint4,-0.06976946296542065
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,186,robot0_joint2,1.6480097909653197
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,186,robot0_joint4,-0.06975020852223149
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,187,robot0_joint2,1.646894150549377
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,187,robot0_joint4,-0.0697493870141523
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,188,robot0_joint2,1.6458072794281078
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,188,robot0_joint4,-0.06974938755062692
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,189,robot0_joint2,1.6447642306281618
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,189,robot0_joint4,-0.0697493334425336
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,190,robot0_joint2,1.6437680294001737
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,190,robot0_joint4,-0.0697492268025197
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,191,robot0_joint2,1.6452700931782456
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,191,robot0_joint4,-0.06978179276697255
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,192,robot0_joint2,1.6480535453171377
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,192,robot0_joint4,-0.06973827750225073
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,193,robot0_joint2,1.6497252130198816
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,193,robot0_joint4,-0.06972076378221127
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,194,robot0_joint2,1.650139815627122
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,194,robot0_joint4,-0.06972257751598357
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,195,robot0_joint2,1.6497019914097706
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,195,robot0_joint4,-0.0697258341337437
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,196,robot0_joint2,1.6479617716579507
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,196,robot0_joint4,-0.09417939507910816
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,197,robot0_joint2,1.6341004399518624
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,197,robot0_joint4,-0.14139873109737805
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,198,robot0_joint2,1.605833375601673
+pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,40,198,robot0_joint4,-0.19864875434330115
+pick up the black bowl on the ramekin and place it on the plate,4,190,robot0_joint7,2.667301417175141
+pick up the black bowl on the ramekin and place it on the plate,4,191,robot0_joint7,2.728195830860012
+pick up the black bowl on the ramekin and place it on the plate,4,192,robot0_joint7,2.790241668479947
+pick up the black bowl on the ramekin and place it on the plate,4,193,robot0_joint7,2.8535802721031343
+pick up the black bowl on the ramekin and place it on the plate,4,194,robot0_joint7,2.9060121496831264
+pick up the black bowl on the ramekin and place it on the plate,4,195,robot0_joint7,2.900376213002112
+pick up the black bowl on the ramekin and place it on the plate,4,196,robot0_joint7,2.898063506400126
+pick up the black bowl on the ramekin and place it on the plate,4,197,robot0_joint7,2.8977680130936023
+pick up the black bowl on the ramekin and place it on the plate,4,198,robot0_joint7,2.8977724322785834
+pick up the black bowl on the ramekin and place it on the plate,4,199,robot0_joint7,2.8977759664002565
+pick up the black bowl on the ramekin and place it on the plate,4,200,robot0_joint7,2.8977783418519647
+pick up the black bowl on the ramekin and place it on the plate,4,201,robot0_joint7,2.8977732730222048
+pick up the black bowl on the ramekin and place it on the plate,4,202,robot0_joint7,2.897762505044754
+pick up the black bowl on the ramekin and place it on the plate,4,203,robot0_joint7,2.897746329996798
+pick up the black bowl on the ramekin and place it on the plate,4,204,robot0_joint7,2.897743344845945
+pick up the black bowl on the ramekin and place it on the plate,4,205,robot0_joint7,2.8977548241891657
+pick up the black bowl on the ramekin and place it on the plate,4,206,robot0_joint7,2.89768761753469
+pick up the black bowl on the ramekin and place it on the plate,4,207,robot0_joint7,2.897599927375966
+pick up the black bowl on the ramekin and place it on the plate,4,208,robot0_joint7,2.8975588839398103
+pick up the black bowl on the ramekin and place it on the plate,4,209,robot0_joint7,2.897552255701423
+pick up the black bowl on the ramekin and place it on the plate,4,210,robot0_joint7,2.897565862869599
+pick up the black bowl on the ramekin and place it on the plate,4,211,robot0_joint7,2.8975303700235653
+pick up the black bowl on the ramekin and place it on the plate,4,212,robot0_joint7,2.8974138650126267
+pick up the black bowl on the ramekin and place it on the plate,4,213,robot0_joint7,2.8967670612844034
+pick up the black bowl on the ramekin and place it on the plate,4,214,robot0_joint7,2.8940867912835824
+pick up the black bowl on the ramekin and place it on the plate,4,215,robot0_joint7,2.8898448895615676
+pick up the black bowl on the ramekin and place it on the plate,4,216,robot0_joint7,2.8692490974430727
+pick up the black bowl on the ramekin and place it on the plate,4,217,robot0_joint7,2.8256447715663837
+pick up the black bowl on the ramekin and place it on the plate,4,218,robot0_joint7,2.770785752929326
+pick up the black bowl on the ramekin and place it on the plate,4,219,robot0_joint7,2.708126358359193
+pick up the black bowl on the ramekin and place it on the plate,4,220,robot0_joint7,2.6405261187291504
+pick up the black bowl on the ramekin and place it on the plate,14,104,robot0_joint7,2.6110979217634034
+pick up the black bowl on the ramekin and place it on the plate,14,105,robot0_joint7,2.6288781073737844
+pick up the black bowl on the ramekin and place it on the plate,14,106,robot0_joint7,2.642879982215196
+pick up the black bowl on the ramekin and place it on the plate,14,107,robot0_joint7,2.6531494551623016
+pick up the black bowl on the ramekin and place it on the plate,14,108,robot0_joint7,2.6596432312134737
+pick up the black bowl on the ramekin and place it on the plate,14,109,robot0_joint7,2.662139379160965
+pick up the black bowl on the ramekin and place it on the plate,14,110,robot0_joint7,2.6607874048968108
+pick up the black bowl on the ramekin and place it on the plate,14,111,robot0_joint7,2.6552293008198666
+pick up the black bowl on the ramekin and place it on the plate,14,112,robot0_joint7,2.64478406975149
+pick up the black bowl on the ramekin and place it on the plate,14,113,robot0_joint7,2.6301545233677994
+pick up the black bowl on the ramekin and place it on the plate,14,114,robot0_joint7,2.6125272200176637
+pick up the black bowl on the ramekin and place it on the plate,14,187,robot0_joint2,1.5990300721955404
+pick up the black bowl on the ramekin and place it on the plate,14,188,robot0_joint2,1.6792866471263264
+pick up the black bowl on the ramekin and place it on the plate,14,189,robot0_joint2,1.771096420548238
+pick up the black bowl on the ramekin and place it on the plate,14,190,robot0_joint2,1.7691198307591403
+pick up the black bowl on the ramekin and place it on the plate,14,191,robot0_joint2,1.7641582283669361
+pick up the black bowl on the ramekin and place it on the plate,14,192,robot0_joint2,1.7633384311348927
+pick up the black bowl on the ramekin and place it on the plate,14,193,robot0_joint2,1.7633160254070868
+pick up the black bowl on the ramekin and place it on the plate,14,194,robot0_joint2,1.7633188690523467
+pick up the black bowl on the ramekin and place it on the plate,14,195,robot0_joint2,1.7633161643292246
+pick up the black bowl on the ramekin and place it on the plate,14,196,robot0_joint2,1.7632925781351776
+pick up the black bowl on the ramekin and place it on the plate,14,197,robot0_joint2,1.763289459651263
+pick up the black bowl on the ramekin and place it on the plate,14,198,robot0_joint2,1.763291917214127
+pick up the black bowl on the ramekin and place it on the plate,14,199,robot0_joint2,1.763280548854464
+pick up the black bowl on the ramekin and place it on the plate,14,200,robot0_joint2,1.7632536827044358
+pick up the black bowl on the ramekin and place it on the plate,14,201,robot0_joint2,1.7633494657665034
+pick up the black bowl on the ramekin and place it on the plate,14,202,robot0_joint2,1.7633141097745355
+pick up the black bowl on the ramekin and place it on the plate,14,203,robot0_joint2,1.7633005211559192
+pick up the black bowl on the ramekin and place it on the plate,14,204,robot0_joint2,1.7633003772833273
+pick up the black bowl on the ramekin and place it on the plate,14,205,robot0_joint2,1.763265070496483
+pick up the black bowl on the ramekin and place it on the plate,14,206,robot0_joint2,1.7538488603413593
+pick up the black bowl on the ramekin and place it on the plate,14,207,robot0_joint2,1.7262553863149128
+pick up the black bowl on the ramekin and place it on the plate,14,208,robot0_joint2,1.6870689125395186
+pick up the black bowl on the ramekin and place it on the plate,14,209,robot0_joint2,1.63928065858102
+pick up the black bowl on the ramekin and place it on the plate,32,123,robot0_joint6,3.5676996103640044
+pick up the black bowl on the ramekin and place it on the plate,32,124,robot0_joint6,3.6122389365472265
+pick up the black bowl on the ramekin and place it on the plate,32,125,robot0_joint6,3.652150724594192
+pick up the black bowl on the ramekin and place it on the plate,32,126,robot0_joint6,3.680108993434538
+pick up the black bowl on the ramekin and place it on the plate,32,127,robot0_joint6,3.701049153344869
+pick up the black bowl on the ramekin and place it on the plate,32,128,robot0_joint6,3.7116650676504768
+pick up the black bowl on the ramekin and place it on the plate,32,129,robot0_joint6,3.70871403934037
+pick up the black bowl on the ramekin and place it on the plate,32,130,robot0_joint6,3.7001044838170847
+pick up the black bowl on the ramekin and place it on the plate,32,131,robot0_joint6,3.68414640278363
+pick up the black bowl on the ramekin and place it on the plate,32,132,robot0_joint6,3.6591049234553177
+pick up the black bowl on the ramekin and place it on the plate,32,133,robot0_joint6,3.628041977397498
+pick up the black bowl on the ramekin and place it on the plate,32,134,robot0_joint6,3.5924143683664127
+pick up the black bowl on the ramekin and place it on the plate,32,188,robot0_joint2,1.5959811270732032
+pick up the black bowl on the ramekin and place it on the plate,32,189,robot0_joint2,1.6309599298766346
+pick up the black bowl on the ramekin and place it on the plate,32,190,robot0_joint2,1.6641123899492638
+pick up the black bowl on the ramekin and place it on the plate,32,191,robot0_joint2,1.691726885989816
+pick up the black bowl on the ramekin and place it on the plate,32,192,robot0_joint2,1.717840819767054
+pick up the black bowl on the ramekin and place it on the plate,32,193,robot0_joint2,1.7469446845023673
+pick up the black bowl on the ramekin and place it on the plate,32,194,robot0_joint2,1.7672009913266795
+pick up the black bowl on the ramekin and place it on the plate,32,194,robot0_joint4,-0.11411311593113721
+pick up the black bowl on the ramekin and place it on the plate,32,195,robot0_joint2,1.7578234016929482
+pick up the black bowl on the ramekin and place it on the plate,32,195,robot0_joint4,-0.056869687471949544
+pick up the black bowl on the ramekin and place it on the plate,32,196,robot0_joint2,1.7405854281228224
+pick up the black bowl on the ramekin and place it on the plate,32,196,robot0_joint4,-0.08165965220088521
+pick up the black bowl on the ramekin and place it on the plate,32,197,robot0_joint2,1.7232916452998206
+pick up the black bowl on the ramekin and place it on the plate,32,197,robot0_joint4,-0.1272642799913195
+pick up the black bowl on the ramekin and place it on the plate,32,198,robot0_joint2,1.7072769638407466
+pick up the black bowl on the ramekin and place it on the plate,32,198,robot0_joint4,-0.18209590467795309
+pick up the black bowl on the ramekin and place it on the plate,32,199,robot0_joint2,1.6943770387415615
+pick up the black bowl on the ramekin and place it on the plate,32,200,robot0_joint2,1.683767605880915
+pick up the black bowl on the ramekin and place it on the plate,32,201,robot0_joint2,1.6732098915007727
+pick up the black bowl on the ramekin and place it on the plate,32,202,robot0_joint2,1.6672581547303402
+pick up the black bowl on the ramekin and place it on the plate,32,203,robot0_joint2,1.6633014547481229
+pick up the black bowl on the ramekin and place it on the plate,32,204,robot0_joint2,1.6577643808984235
+pick up the black bowl on the ramekin and place it on the plate,32,205,robot0_joint2,1.6504718473619344
+pick up the black bowl on the ramekin and place it on the plate,32,206,robot0_joint2,1.632905555227787
+pick up the black bowl on the ramekin and place it on the plate,32,207,robot0_joint2,1.6067312587198568
+pick up the black bowl next to the cookie box and place it on the plate,10,58,robot0_joint2,1.6008618215624533
+pick up the black bowl next to the cookie box and place it on the plate,10,59,robot0_joint2,1.622050389435818
+pick up the black bowl next to the cookie box and place it on the plate,10,59,robot0_joint4,-0.21123159433656813
+pick up the black bowl next to the cookie box and place it on the plate,10,60,robot0_joint2,1.6424512864656189
+pick up the black bowl next to the cookie box and place it on the plate,10,60,robot0_joint4,-0.17824681485572427
+pick up the black bowl next to the cookie box and place it on the plate,10,61,robot0_joint2,1.6619565487958785
+pick up the black bowl next to the cookie box and place it on the plate,10,61,robot0_joint4,-0.1447766278845332
+pick up the black bowl next to the cookie box and place it on the plate,10,62,robot0_joint2,1.6804672413168678
+pick up the black bowl next to the cookie box and place it on the plate,10,62,robot0_joint4,-0.11095374419367175
+pick up the black bowl next to the cookie box and place it on the plate,10,63,robot0_joint2,1.69787953310296
+pick up the black bowl next to the cookie box and place it on the plate,10,63,robot0_joint4,-0.07617851853991545
+pick up the black bowl next to the cookie box and place it on the plate,10,64,robot0_joint2,1.7033035766578324
+pick up the black bowl next to the cookie box and place it on the plate,10,64,robot0_joint4,-0.06645760816528752
+pick up the black bowl next to the cookie box and place it on the plate,10,65,robot0_joint2,1.6963566386263391
+pick up the black bowl next to the cookie box and place it on the plate,10,65,robot0_joint4,-0.06910691113146791
+pick up the black bowl next to the cookie box and place it on the plate,10,66,robot0_joint2,1.686889179723812
+pick up the black bowl next to the cookie box and place it on the plate,10,66,robot0_joint4,-0.06963665200591833
+pick up the black bowl next to the cookie box and place it on the plate,10,67,robot0_joint2,1.6762448009733824
+pick up the black bowl next to the cookie box and place it on the plate,10,67,robot0_joint4,-0.0697200206310807
+pick up the black bowl next to the cookie box and place it on the plate,10,68,robot0_joint2,1.6642260154748836
+pick up the black bowl next to the cookie box and place it on the plate,10,68,robot0_joint4,-0.06972865799110683
+pick up the black bowl next to the cookie box and place it on the plate,10,69,robot0_joint2,1.6506339796890006
+pick up the black bowl next to the cookie box and place it on the plate,10,69,robot0_joint4,-0.06972883012772593
+pick up the black bowl next to the cookie box and place it on the plate,10,70,robot0_joint2,1.6355979981578896
+pick up the black bowl next to the cookie box and place it on the plate,10,70,robot0_joint4,-0.06972480231424424
+pick up the black bowl next to the cookie box and place it on the plate,10,71,robot0_joint2,1.6198255774489838
+pick up the black bowl next to the cookie box and place it on the plate,10,71,robot0_joint4,-0.06970591359816874
+pick up the black bowl next to the cookie box and place it on the plate,10,72,robot0_joint2,1.6037215469350188
+pick up the black bowl next to the cookie box and place it on the plate,10,72,robot0_joint4,-0.0696936033508232
+pick up the black bowl next to the cookie box and place it on the plate,10,73,robot0_joint2,1.5876383794154203
+pick up the black bowl next to the cookie box and place it on the plate,10,73,robot0_joint4,-0.06969504595930759
+pick up the black bowl next to the cookie box and place it on the plate,10,74,robot0_joint4,-0.06969478810342512
+pick up the black bowl next to the cookie box and place it on the plate,10,75,robot0_joint4,-0.06970665359231165
+pick up the black bowl next to the cookie box and place it on the plate,10,76,robot0_joint4,-0.0697120764365422
+pick up the black bowl next to the cookie box and place it on the plate,10,77,robot0_joint4,-0.06971653486130724
+pick up the black bowl next to the cookie box and place it on the plate,10,78,robot0_joint4,-0.06971886071216533
+pick up the black bowl next to the cookie box and place it on the plate,10,79,robot0_joint4,-0.06971854769922407
+pick up the black bowl next to the cookie box and place it on the plate,10,80,robot0_joint4,-0.06971429802671669
+pick up the black bowl next to the cookie box and place it on the plate,10,81,robot0_joint4,-0.06972008287172064
+pick up the black bowl next to the cookie box and place it on the plate,10,82,robot0_joint4,-0.06971558625998621
+pick up the black bowl next to the cookie box and place it on the plate,10,83,robot0_joint4,-0.06971377026449363
+pick up the black bowl next to the cookie box and place it on the plate,10,84,robot0_joint4,-0.0697188271876293
+pick up the black bowl next to the cookie box and place it on the plate,10,85,robot0_joint4,-0.06972481668996805
+pick up the black bowl next to the cookie box and place it on the plate,10,86,robot0_joint4,-0.06970107440000774
+pick up the black bowl next to the cookie box and place it on the plate,10,87,robot0_joint4,-0.06970202214844626
+pick up the black bowl next to the cookie box and place it on the plate,10,88,robot0_joint4,-0.06970198923901418
+pick up the black bowl next to the cookie box and place it on the plate,10,89,robot0_joint4,-0.06970113957968795
+pick up the black bowl next to the cookie box and place it on the plate,10,90,robot0_joint4,-0.06970228024039446
+pick up the black bowl next to the cookie box and place it on the plate,10,91,robot0_joint4,-0.06971937288822858
+pick up the black bowl next to the cookie box and place it on the plate,10,92,robot0_joint4,-0.06972937698890165
+pick up the black bowl next to the cookie box and place it on the plate,10,93,robot0_joint4,-0.06974509981266792
+pick up the black bowl next to the cookie box and place it on the plate,10,94,robot0_joint4,-0.06975087967215648
+pick up the black bowl next to the cookie box and place it on the plate,10,95,robot0_joint4,-0.06975895854144137
+pick up the black bowl next to the cookie box and place it on the plate,10,96,robot0_joint4,-0.06975489973852245
+pick up the black bowl next to the cookie box and place it on the plate,10,97,robot0_joint4,-0.06975621249116563
+pick up the black bowl next to the cookie box and place it on the plate,10,98,robot0_joint4,-0.06976344313594875
+pick up the black bowl next to the cookie box and place it on the plate,10,99,robot0_joint4,-0.06976543786712432
+pick up the black bowl next to the cookie box and place it on the plate,10,100,robot0_joint4,-0.0697668467212835
+pick up the black bowl next to the cookie box and place it on the plate,10,101,robot0_joint4,-0.06976310126051619
+pick up the black bowl next to the cookie box and place it on the plate,10,102,robot0_joint4,-0.0697754637410171
+pick up the black bowl next to the cookie box and place it on the plate,10,103,robot0_joint4,-0.06978526248368287
+pick up the black bowl next to the cookie box and place it on the plate,10,104,robot0_joint4,-0.06974595570022606
+pick up the black bowl next to the cookie box and place it on the plate,10,105,robot0_joint4,-0.0697483436032081
+pick up the black bowl next to the cookie box and place it on the plate,10,106,robot0_joint4,-0.06973680160007596
+pick up the black bowl next to the cookie box and place it on the plate,10,107,robot0_joint4,-0.06976247035984726
+pick up the black bowl next to the cookie box and place it on the plate,10,108,robot0_joint2,1.5970007606666194
+pick up the black bowl next to the cookie box and place it on the plate,10,108,robot0_joint4,-0.06976928520897444
+pick up the black bowl next to the cookie box and place it on the plate,10,109,robot0_joint2,1.6081695352449028
+pick up the black bowl next to the cookie box and place it on the plate,10,109,robot0_joint4,-0.06977907751125645
+pick up the black bowl next to the cookie box and place it on the plate,10,110,robot0_joint2,1.6195820964782606
+pick up the black bowl next to the cookie box and place it on the plate,10,110,robot0_joint4,-0.06976370153777513
+pick up the black bowl next to the cookie box and place it on the plate,10,111,robot0_joint2,1.6298818103696784
+pick up the black bowl next to the cookie box and place it on the plate,10,111,robot0_joint4,-0.06970985663985015
+pick up the black bowl next to the cookie box and place it on the plate,10,112,robot0_joint2,1.6386877128742914
+pick up the black bowl next to the cookie box and place it on the plate,10,112,robot0_joint4,-0.06969189109352439
+pick up the black bowl next to the cookie box and place it on the plate,10,113,robot0_joint2,1.6463468754131474
+pick up the black bowl next to the cookie box and place it on the plate,10,113,robot0_joint4,-0.06968325916015322
+pick up the black bowl next to the cookie box and place it on the plate,10,114,robot0_joint2,1.653077353706427
+pick up the black bowl next to the cookie box and place it on the plate,10,114,robot0_joint4,-0.06968328999598616
+pick up the black bowl next to the cookie box and place it on the plate,27,54,robot0_joint4,-0.21910429302190057
+pick up the black bowl next to the cookie box and place it on the plate,27,55,robot0_joint2,1.6032389478838667
+pick up the black bowl next to the cookie box and place it on the plate,27,55,robot0_joint4,-0.17516154440384393
+pick up the black bowl next to the cookie box and place it on the plate,27,56,robot0_joint2,1.6380075350402248
+pick up the black bowl next to the cookie box and place it on the plate,27,56,robot0_joint4,-0.12948714900376804
+pick up the black bowl next to the cookie box and place it on the plate,27,57,robot0_joint2,1.6752160321789034
+pick up the black bowl next to the cookie box and place it on the plate,27,57,robot0_joint4,-0.08135475145678966
+pick up the black bowl next to the cookie box and place it on the plate,27,58,robot0_joint2,1.7012108022044417
+pick up the black bowl next to the cookie box and place it on the plate,27,58,robot0_joint4,-0.06499243904159062
+pick up the black bowl next to the cookie box and place it on the plate,27,59,robot0_joint2,1.7124376028361967
+pick up the black bowl next to the cookie box and place it on the plate,27,59,robot0_joint4,-0.06875458207854077
+pick up the black bowl next to the cookie box and place it on the plate,27,60,robot0_joint2,1.7208074485888993
+pick up the black bowl next to the cookie box and place it on the plate,27,60,robot0_joint4,-0.06950885453722618
+pick up the black bowl next to the cookie box and place it on the plate,27,61,robot0_joint2,1.7244502955176748
+pick up the black bowl next to the cookie box and place it on the plate,27,61,robot0_joint4,-0.06957178394173354
+pick up the black bowl next to the cookie box and place it on the plate,27,62,robot0_joint2,1.7239403626844592
+pick up the black bowl next to the cookie box and place it on the plate,27,62,robot0_joint4,-0.06963012115501757
+pick up the black bowl next to the cookie box and place it on the plate,27,63,robot0_joint2,1.7222390723528718
+pick up the black bowl next to the cookie box and place it on the plate,27,63,robot0_joint4,-0.06968567451820108
+pick up the black bowl next to the cookie box and place it on the plate,27,64,robot0_joint2,1.7198841636839293
+pick up the black bowl next to the cookie box and place it on the plate,27,64,robot0_joint4,-0.06970872469786513
+pick up the black bowl next to the cookie box and place it on the plate,27,65,robot0_joint2,1.7169698057078666
+pick up the black bowl next to the cookie box and place it on the plate,27,65,robot0_joint4,-0.06972538482432741
+pick up the black bowl next to the cookie box and place it on the plate,27,66,robot0_joint2,1.7146676187326715
+pick up the black bowl next to the cookie box and place it on the plate,27,66,robot0_joint4,-0.06977449023717844
+pick up the black bowl next to the cookie box and place it on the plate,27,67,robot0_joint2,1.7126496808663068
+pick up the black bowl next to the cookie box and place it on the plate,27,67,robot0_joint4,-0.06976388291847635
+pick up the black bowl next to the cookie box and place it on the plate,27,68,robot0_joint2,1.70991299490959
+pick up the black bowl next to the cookie box and place it on the plate,27,68,robot0_joint4,-0.0697451062625226
+pick up the black bowl next to the cookie box and place it on the plate,27,69,robot0_joint2,1.7057791580278423
+pick up the black bowl next to the cookie box and place it on the plate,27,69,robot0_joint4,-0.06972819725741451
+pick up the black bowl next to the cookie box and place it on the plate,27,70,robot0_joint2,1.6993076066623243
+pick up the black bowl next to the cookie box and place it on the plate,27,70,robot0_joint4,-0.06969792444341619
+pick up the black bowl next to the cookie box and place it on the plate,27,71,robot0_joint2,1.6887612947907455
+pick up the black bowl next to the cookie box and place it on the plate,27,71,robot0_joint4,-0.06965797748211609
+pick up the black bowl next to the cookie box and place it on the plate,27,72,robot0_joint2,1.6745562918785342
+pick up the black bowl next to the cookie box and place it on the plate,27,72,robot0_joint4,-0.06966455063612602
+pick up the black bowl next to the cookie box and place it on the plate,27,73,robot0_joint2,1.6583577127866298
+pick up the black bowl next to the cookie box and place it on the plate,27,73,robot0_joint4,-0.06967666144053747
+pick up the black bowl next to the cookie box and place it on the plate,27,74,robot0_joint2,1.6411119778670733
+pick up the black bowl next to the cookie box and place it on the plate,27,74,robot0_joint4,-0.06967852257851903
+pick up the black bowl next to the cookie box and place it on the plate,27,75,robot0_joint2,1.6237647282770356
+pick up the black bowl next to the cookie box and place it on the plate,27,75,robot0_joint4,-0.06969023493153377
+pick up the black bowl next to the cookie box and place it on the plate,27,76,robot0_joint2,1.6075313718772268
+pick up the black bowl next to the cookie box and place it on the plate,27,76,robot0_joint4,-0.06972222061207457
+pick up the black bowl next to the cookie box and place it on the plate,27,77,robot0_joint2,1.592378683309818
+pick up the black bowl next to the cookie box and place it on the plate,27,77,robot0_joint4,-0.06972613317894813
+pick up the black bowl next to the cookie box and place it on the plate,27,78,robot0_joint4,-0.0697246956640308
+pick up the black bowl next to the cookie box and place it on the plate,27,79,robot0_joint4,-0.06972617403242469
+pick up the black bowl next to the cookie box and place it on the plate,27,80,robot0_joint4,-0.06972865114168195
+pick up the black bowl next to the cookie box and place it on the plate,27,81,robot0_joint4,-0.06972970298520789
+pick up the black bowl next to the cookie box and place it on the plate,27,82,robot0_joint4,-0.06972677517647916
+pick up the black bowl next to the cookie box and place it on the plate,27,83,robot0_joint4,-0.06972839926491654
+pick up the black bowl next to the cookie box and place it on the plate,27,84,robot0_joint4,-0.06972463755819916
+pick up the black bowl next to the cookie box and place it on the plate,27,85,robot0_joint4,-0.06971485157080934
+pick up the black bowl next to the cookie box and place it on the plate,27,86,robot0_joint4,-0.0697101686491833
+pick up the black bowl next to the cookie box and place it on the plate,27,87,robot0_joint4,-0.06971019246048063
+pick up the black bowl next to the cookie box and place it on the plate,27,88,robot0_joint4,-0.06971111473086414
+pick up the black bowl next to the cookie box and place it on the plate,27,89,robot0_joint4,-0.06971566694506776
+pick up the black bowl next to the cookie box and place it on the plate,27,90,robot0_joint4,-0.06972233054808621
+pick up the black bowl next to the cookie box and place it on the plate,27,91,robot0_joint4,-0.06970666622885871
+pick up the black bowl next to the cookie box and place it on the plate,27,92,robot0_joint4,-0.0697084065402793
+pick up the black bowl next to the cookie box and place it on the plate,27,93,robot0_joint4,-0.06971045320927623
+pick up the black bowl next to the cookie box and place it on the plate,27,94,robot0_joint4,-0.0697127222657901
+pick up the black bowl next to the cookie box and place it on the plate,27,95,robot0_joint4,-0.0697158638304445
+pick up the black bowl next to the cookie box and place it on the plate,27,96,robot0_joint4,-0.0697417824577652
+pick up the black bowl next to the cookie box and place it on the plate,27,97,robot0_joint4,-0.06974437763126207
+pick up the black bowl next to the cookie box and place it on the plate,27,98,robot0_joint4,-0.06976225308955922
+pick up the black bowl next to the cookie box and place it on the plate,27,99,robot0_joint4,-0.06988485620861738
+pick up the black bowl next to the cookie box and place it on the plate,27,100,robot0_joint4,-0.07007754021798232
+pick up the black bowl next to the cookie box and place it on the plate,27,101,robot0_joint4,-0.06964273176438006
+pick up the black bowl next to the cookie box and place it on the plate,27,102,robot0_joint4,-0.06972882414628209
+pick up the black bowl next to the cookie box and place it on the plate,27,103,robot0_joint4,-0.06975261069498803
+pick up the black bowl next to the cookie box and place it on the plate,27,104,robot0_joint4,-0.06974729894388841
+pick up the black bowl next to the cookie box and place it on the plate,27,105,robot0_joint4,-0.06975127828317938
+pick up the black bowl next to the cookie box and place it on the plate,27,106,robot0_joint2,1.5868876811799846
+pick up the black bowl next to the cookie box and place it on the plate,27,106,robot0_joint4,-0.069738562841232
+pick up the black bowl next to the cookie box and place it on the plate,27,107,robot0_joint2,1.598866868866057
+pick up the black bowl next to the cookie box and place it on the plate,27,107,robot0_joint4,-0.06974096280148386
+pick up the black bowl next to the cookie box and place it on the plate,27,108,robot0_joint2,1.6103771086740089
+pick up the black bowl next to the cookie box and place it on the plate,27,108,robot0_joint4,-0.06974369069782559
+pick up the black bowl next to the cookie box and place it on the plate,27,109,robot0_joint2,1.6218631501451863
+pick up the black bowl next to the cookie box and place it on the plate,27,109,robot0_joint4,-0.0697430804033068
+pick up the black bowl next to the cookie box and place it on the plate,27,110,robot0_joint2,1.6334541292257345
+pick up the black bowl next to the cookie box and place it on the plate,27,110,robot0_joint4,-0.06973586656373891
+pick up the black bowl next to the cookie box and place it on the plate,27,111,robot0_joint2,1.6449394372443014
+pick up the black bowl next to the cookie box and place it on the plate,27,111,robot0_joint4,-0.06975649069244903
+pick up the black bowl next to the cookie box and place it on the plate,27,112,robot0_joint2,1.6561045981645655
+pick up the black bowl next to the cookie box and place it on the plate,27,112,robot0_joint4,-0.06975929131539613
+pick up the black bowl on the stove and place it on the plate,6,147,robot0_joint2,1.5874612893437208
+pick up the black bowl on the stove and place it on the plate,6,148,robot0_joint2,1.5883157283130225
+pick up the black bowl on the stove and place it on the plate,6,149,robot0_joint2,1.588329851024856
+pick up the black bowl on the stove and place it on the plate,6,150,robot0_joint2,1.587617783994589
+pick up the black bowl on the stove and place it on the plate,6,151,robot0_joint2,1.5866905223588987
+pick up the black bowl on the stove and place it on the plate,6,165,robot0_joint7,2.6261804582188475
+pick up the black bowl on the stove and place it on the plate,6,166,robot0_joint7,2.675704217971334
+pick up the black bowl on the stove and place it on the plate,6,167,robot0_joint7,2.7259184961427096
+pick up the black bowl on the stove and place it on the plate,6,168,robot0_joint7,2.780239160951054
+pick up the black bowl on the stove and place it on the plate,6,169,robot0_joint7,2.83776556928976
+pick up the black bowl on the stove and place it on the plate,6,170,robot0_joint7,2.8975912575054608
+pick up the black bowl on the stove and place it on the plate,6,171,robot0_joint7,2.9013330913382296
+pick up the black bowl on the stove and place it on the plate,6,172,robot0_joint7,2.8982366427169017
+pick up the black bowl on the stove and place it on the plate,6,173,robot0_joint7,2.8977606129188396
+pick up the black bowl on the stove and place it on the plate,6,174,robot0_joint7,2.8977564197260826
+pick up the black bowl on the stove and place it on the plate,6,175,robot0_joint7,2.8977590172297605
+pick up the black bowl on the stove and place it on the plate,6,176,robot0_joint7,2.8977614508892913
+pick up the black bowl on the stove and place it on the plate,6,177,robot0_joint7,2.89775892460578
+pick up the black bowl on the stove and place it on the plate,6,178,robot0_joint7,2.8977584018454867
+pick up the black bowl on the stove and place it on the plate,6,179,robot0_joint7,2.897758311388305
+pick up the black bowl on the stove and place it on the plate,6,180,robot0_joint7,2.8977581635319716
+pick up the black bowl on the stove and place it on the plate,6,181,robot0_joint7,2.897752067396978
+pick up the black bowl on the stove and place it on the plate,6,182,robot0_joint7,2.8977517266288135
+pick up the black bowl on the stove and place it on the plate,6,183,robot0_joint7,2.897735228226995
+pick up the black bowl on the stove and place it on the plate,6,184,robot0_joint7,2.8977095850647654
+pick up the black bowl on the stove and place it on the plate,6,185,robot0_joint7,2.897688667754922
+pick up the black bowl on the stove and place it on the plate,6,186,robot0_joint7,2.8974260075177307
+pick up the black bowl on the stove and place it on the plate,6,187,robot0_joint7,2.89734175295379
+pick up the black bowl on the stove and place it on the plate,6,188,robot0_joint7,2.8972701033772363
+pick up the black bowl on the stove and place it on the plate,6,189,robot0_joint7,2.896862607387619
+pick up the black bowl on the stove and place it on the plate,6,190,robot0_joint7,2.8959212983351503
+pick up the black bowl on the stove and place it on the plate,6,191,robot0_joint7,2.8940546550420128
+pick up the black bowl on the stove and place it on the plate,6,192,robot0_joint7,2.8951146092692985
+pick up the black bowl on the stove and place it on the plate,6,193,robot0_joint7,2.897830898994681
+pick up the black bowl on the stove and place it on the plate,6,194,robot0_joint7,2.8975322930100234
+pick up the black bowl on the stove and place it on the plate,6,195,robot0_joint7,2.897314730618588
+pick up the black bowl on the stove and place it on the plate,6,196,robot0_joint7,2.8811836026338633
+pick up the black bowl on the stove and place it on the plate,6,197,robot0_joint7,2.8435367839800447
+pick up the black bowl on the stove and place it on the plate,6,198,robot0_joint7,2.7957446695047654
+pick up the black bowl on the stove and place it on the plate,6,199,robot0_joint7,2.745395443161489
+pick up the black bowl on the stove and place it on the plate,6,200,robot0_joint7,2.6979008236451856
+pick up the black bowl on the stove and place it on the plate,6,201,robot0_joint7,2.670624315526697
+pick up the black bowl on the stove and place it on the plate,6,202,robot0_joint7,2.65624890719681
+pick up the black bowl on the stove and place it on the plate,6,203,robot0_joint7,2.647588675905302
+pick up the black bowl on the stove and place it on the plate,6,204,robot0_joint7,2.644403960085471
+pick up the black bowl on the stove and place it on the plate,6,205,robot0_joint7,2.6285756215972955
+pick up the black bowl on the stove and place it on the plate,6,206,robot0_joint7,2.6184987331961906
+pick up the black bowl on the stove and place it on the plate,6,207,robot0_joint7,2.6169778538685047
+pick up the black bowl on the stove and place it on the plate,6,208,robot0_joint7,2.6168391105847513
+pick up the black bowl on the stove and place it on the plate,6,209,robot0_joint7,2.6167096022047325
+pick up the black bowl on the stove and place it on the plate,6,210,robot0_joint7,2.6143140503158295
+pick up the black bowl on the stove and place it on the plate,6,211,robot0_joint7,2.618004726825338
+pick up the black bowl on the stove and place it on the plate,6,212,robot0_joint7,2.629441931239582
+pick up the black bowl on the stove and place it on the plate,6,213,robot0_joint7,2.643181640768547
+pick up the black bowl on the stove and place it on the plate,6,214,robot0_joint5,-2.681647483189606
+pick up the black bowl on the stove and place it on the plate,6,214,robot0_joint7,2.6555137222292333
+pick up the black bowl on the stove and place it on the plate,6,215,robot0_joint5,-2.832131966604219
+pick up the black bowl on the stove and place it on the plate,6,215,robot0_joint7,2.6640273016653406
+pick up the black bowl on the stove and place it on the plate,6,216,robot0_joint5,-2.914298736603805
+pick up the black bowl on the stove and place it on the plate,6,216,robot0_joint7,2.6641658573740057
+pick up the black bowl on the stove and place it on the plate,6,217,robot0_joint5,-2.901951628706534
+pick up the black bowl on the stove and place it on the plate,6,217,robot0_joint7,2.658398229033582
+pick up the black bowl on the stove and place it on the plate,6,218,robot0_joint5,-2.8989421893760867
+pick up the black bowl on the stove and place it on the plate,6,218,robot0_joint7,2.650809216767528
+pick up the black bowl on the stove and place it on the plate,6,219,robot0_joint5,-2.8983879299141573
+pick up the black bowl on the stove and place it on the plate,6,219,robot0_joint7,2.64934047409254
+pick up the black bowl on the stove and place it on the plate,6,220,robot0_joint5,-2.898172310509242
+pick up the black bowl on the stove and place it on the plate,6,220,robot0_joint7,2.653607457529204
