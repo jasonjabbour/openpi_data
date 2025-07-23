@@ -1,0 +1,6 @@
+task,episode,step,object_name,speed,acceleration
+pick up the black bowl on the stove and place it on the plate,20,197,akita_black_bowl_2,1.3962966252085227,704.7197917361926
+pick up the black bowl on the stove and place it on the plate,20,200,akita_black_bowl_2,1.1727076390673723,227.69002474920472
+pick up the black bowl on the stove and place it on the plate,20,201,akita_black_bowl_2,1.479324001317797,205.68335298891066
+pick up the black bowl on the stove and place it on the plate,20,202,akita_black_bowl_2,1.774524812574559,180.3529371346883
+pick up the black bowl on the wooden cabinet and place it on the plate,14,177,akita_black_bowl_1,1.3017560496445808,650.8780248222853
